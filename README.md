@@ -4,5 +4,5 @@
 
 ## Esercizi svolti fino ad ora:
 
-### Esercizi del 18/10/22 ✓
+### 1. [x] Esercizi del 18/10/22 ✓
 
