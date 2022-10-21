@@ -5,4 +5,4 @@
 ## Esercizi svolti fino ad ora:
 
 ### 1. Esercizi del 18/10/22 ✓
-### 1. Esercizi laboratorio lab02 del 20/10/22 ✓
+### 2. Esercizi laboratorio lab02 del 20/10/22 ✓
