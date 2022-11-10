@@ -8,3 +8,4 @@
 ### 2. Esercizi laboratorio lab02 del 20/10/22 ✓
 ### 3. Esercizi laboratorio lab03 del 27/10/22 ✓
 ### 4. Esercizi laboratorio lab04 del 03/11/22 ✓
+### 5. Esercizi laboratorio lab05 del 10/11/22 ✓
