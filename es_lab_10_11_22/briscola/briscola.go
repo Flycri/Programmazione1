@@ -13,7 +13,7 @@ import (
 	a nessuna carta, la funzione restituisce -1.
 */
 
-func puntiCarta(s string) int {
+func punti(s string) int {
 	var tot int
 	for _,r:=range s {
 		switch r {
@@ -54,6 +54,6 @@ func main() {
 		}
 	}
 
-	fmt.Printf("Mano %s: %d tot punti",s,puntiCarta(s))
+	fmt.Printf("Mano %s: %d tot punti",s,punti(s))
 
 }

@@ -39,25 +39,25 @@ import (
 )
 
 func TestEsempio(t *testing.T) {
-	if puntiCarta("53J") != 12 {
+	if punti("53J") != 12 {
 		t.Fail()
 	}
 }
 
 func TestUna(t *testing.T) {
-	if puntiCarta("K") != 4 {
+	if punti("K") != 4 {
 		t.Fail()
 	}
 }
 
 func TestFigure(t *testing.T) {
-	if puntiCarta("QQJ") != 8 {
+	if punti("QQJ") != 8 {
 		t.Fail()
 	}
 }
 
 func TestInvalid(t *testing.T) {
-	if puntiCarta("Q3à") != -1 {
+	if punti("Q3à") != -1 {
 		t.Fail()
 	}
 
