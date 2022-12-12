@@ -1,14 +1,9 @@
 package main
 
-import (
-	"fmt"
-)
+/*
+	Specifica.
+*/
 
 func main() {
-	
-	/*
-		Specifica.
-	*/
-
 
 }
